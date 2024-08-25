@@ -1,0 +1,457 @@
+ID,Nome,Tipo,GlobalId,Descrição,Modelo,Unidade de Medida
+152,Floor:15cm - Concreto:855021,IfcSlab,08X7FEtxr2LP6EenATkVf_,,Floor:15cm - Concreto,FLOOR
+206,Floor:15cm - Concreto:855203,IfcSlab,08X7FEtxr2LP6EenATkVqm,,Floor:15cm - Concreto,FLOOR
+237,Floor:Porcelanato Cinza:855387,IfcSlab,08X7FEtxr2LP6EenATkVp8,,Floor:Porcelanato Cinza,FLOOR
+297,Floor:Deck:855414,IfcSlab,08X7FEtxr2LP6EenATkVpb,,Floor:Deck,FLOOR
+370,Basic Wall:15cm - Pintura Branca / Pintura Branca:855571,IfcWallStandardCase,08X7FEtxr2LP6EenATkV_0,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+383,Basic Wall:15cm - Pintura Branca / Pintura Branca:855571,IfcOpeningElement,1uon7P6lbAjX7bMHIuMaIe,,Opening,N/A
+473,Basic Wall:15cm - Pintura Branca / Pintura Branca:855886,IfcWallStandardCase,08X7FEtxr2LP6EenATkVxT,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+586,Basic Wall:15cm - Pintura Branca / Pintura Branca:856164,IfcWall,08X7FEtxr2LP6EenATkU7t,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+623,Basic Wall:15cm - Pintura Branca / Pintura Branca:856232,IfcWallStandardCase,08X7FEtxr2LP6EenATkU4x,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+698,Basic Wall:15cm - Pintura Branca / Pintura Branca:856343,IfcWall,08X7FEtxr2LP6EenATkU24,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+824,Basic Wall:15cm - Pintura Branca / Pintura Branca:856488,IfcWall,08X7FEtxr2LP6EenATkU0x,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+909,Basic Wall:15cm - Pintura Branca / Pintura Branca:856590,IfcWall,08X7FEtxr2LP6EenATkUET,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+1018,Basic Wall:15cm - Pintura Branca / Pintura Branca:856666,IfcWall,08X7FEtxr2LP6EenATkUF9,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+1176,Basic Wall:15cm - Pintura Branca / Pintura Branca:856761,IfcWall,08X7FEtxr2LP6EenATkUCg,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+1250,Basic Wall:15cm - Pintura Branca / Pintura Branca:856966,IfcWall,08X7FEtxr2LP6EenATkU8L,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+1391,Basic Wall:15cm - Pintura Branca / Pintura Branca:857006,IfcWall,08X7FEtxr2LP6EenATkU8z,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+1464,Basic Wall:15cm - Pintura Branca / Pintura Branca:857113,IfcWallStandardCase,08X7FEtxr2LP6EenATkUMA,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+1515,Basic Wall:15cm - Pintura Branca / Pintura Branca:857270,IfcWallStandardCase,08X7FEtxr2LP6EenATkUKb,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+1562,Basic Wall:15cm - Pintura Branca / Pintura Branca:857356,IfcWallStandardCase,08X7FEtxr2LP6EenATkUIV,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+1659,Basic Wall:15cm - Pintura Branca / Pintura Branca:857470,IfcWall,08X7FEtxr2LP6EenATkUJj,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+1720,Basic Wall:15cm - Pintura Branca / Pintura Branca:857753,IfcWallStandardCase,08X7FEtxr2LP6EenATkUSA,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+1768,Basic Wall:15cm - Pintura Branca / Pintura Branca:858010,IfcWallStandardCase,08X7FEtxr2LP6EenATkUO9,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+1841,Basic Wall:15cm - Pintura Branca / Pintura Branca:858234,IfcWall,08X7FEtxr2LP6EenATkUdf,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+1914,Basic Wall:15cm - Pintura Branca / Pintura Branca:858356,IfcWall,08X7FEtxr2LP6EenATkUbd,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+1965,Basic Wall:15cm - Pintura Branca / Pintura Branca:858445,IfcWallStandardCase,08X7FEtxr2LP6EenATkUZU,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2012,Basic Wall:15cm - Pintura Branca / Pintura Branca:858517,IfcWallStandardCase,08X7FEtxr2LP6EenATkUW6,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2072,Basic Wall:15cm - Pintura Branca / Pintura Branca:858692,IfcWallStandardCase,08X7FEtxr2LP6EenATkUlN,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2124,Basic Wall:15cm - Pintura Branca / Pintura Branca:858828,IfcWallStandardCase,08X7FEtxr2LP6EenATkUjV,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2172,Basic Wall:15cm - Pintura Branca / Pintura Branca:858928,IfcWallStandardCase,08X7FEtxr2LP6EenATkUgZ,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2282,Basic Wall:15cm - Pintura Branca / Pintura Branca:859037,IfcWall,08X7FEtxr2LP6EenATkUeE,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2392,Basic Wall:15cm - Pintura Branca / Pintura Branca:859637,IfcWall,0Q9OcOgFXBwAsWnAPEOEP3,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2459,Basic Wall:15cm - Pintura Branca / Pintura Branca:859761,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEOEN7,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2562,Basic Wall:15cm - Pintura Branca / Pintura Branca:860010,IfcWall,0Q9OcOgFXBwAsWnAPEOEJS,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2613,Basic Wall:15cm - Pintura Branca / Pintura Branca:860192,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEODkM,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2661,Basic Wall:15cm - Pintura Branca / Pintura Branca:860348,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEODiA,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2799,Basic Wall:15cm - Pintura Branca / Pintura Branca:860500,IfcWall,0Q9OcOgFXBwAsWnAPEODhY,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2837,Basic Wall:15cm - Pintura Branca / Pintura Branca:860713,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEODcV,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2887,Basic Wall:15cm - Pintura Branca / Pintura Branca:860990,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEODY8,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2938,Basic Wall:15cm - Pintura Branca / Pintura Branca:861134,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEODXu,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+2976,Basic Wall:15cm - Pintura Branca / Pintura Branca:861579,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEODuz,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3051,Basic Wall:15cm - Pintura Branca / Pintura Branca:861741,IfcWall,0Q9OcOgFXBwAsWnAPEODsR,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3088,Basic Wall:15cm - Pintura Branca / Pintura Branca:861982,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEODoe,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3124,Basic Wall:15cm - Pintura Branca / Pintura Branca:862043,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEODpj,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3199,Basic Wall:15cm - Pintura Branca / Pintura Branca:862243,IfcWall,0Q9OcOgFXBwAsWnAPEODEL,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3301,Basic Wall:15cm - Pintura Branca / Pintura Branca:862466,IfcWall,0Q9OcOgFXBwAsWnAPEODAq,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3326,Basic Wall:15cm - Pintura Branca / Pintura Branca:862615,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEOD8X,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3351,Basic Wall:15cm - Pintura Branca / Pintura Branca:862689,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEOD9N,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3388,Basic Wall:15cm - Pintura Branca / Pintura Branca:862733,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEOD6x,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3424,Basic Wall:15cm - Pintura Branca / Pintura Branca:862809,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEOD7l,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3495,Basic Wall:15cm - Pintura Branca / Pintura Branca:862941,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEOD5h,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3628,Basic Wall:15cm - Pintura Branca / Pintura Branca:863293,IfcWall,0Q9OcOgFXBwAsWnAPEODUB,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3725,Basic Wall:15cm - Pintura Branca / Pintura Branca:863400,IfcWall,0Q9OcOgFXBwAsWnAPEODSU,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3799,Basic Wall:15cm - Pintura Branca / Pintura Branca:863604,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEODR2,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3809,Basic Wall:15cm - Pintura Branca / Pintura Branca:863604:1,IfcOpeningElement,1U1mOu8C_rSm8D_IDZ4nOu,,Opening,N/A
+3871,Basic Wall:15cm - Pintura Branca / Pintura Branca:863828,IfcWallStandardCase,0Q9OcOgFXBwAsWnAPEODNY,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+3887,Basic Wall:15cm - Pintura Branca / Pintura Branca:863828:1,IfcOpeningElement,2QKgpcQ_U5Ecn5kQesxxGz,,Opening,N/A
+3922,Floor:Porcelanato Cinza:863872,IfcSlab,0Q9OcOgFXBwAsWnAPEODKs,,Floor:Porcelanato Cinza,FLOOR
+3936,Basic Roof:Telhado Colonial:863885,IfcRoof,0Q9OcOgFXBwAsWnAPEODKx,,Basic Roof:Telhado Colonial,N/A
+3961,Basic Roof:Telhado Colonial:863885,IfcSlab,0Q9OcOgFXBwAsWnAHEODKx,,Basic Roof:Telhado Colonial,ROOF
+3994,Basic Roof:Telhado Colonial:863885,IfcSlab,0Q9OcOgFXBwAsWnALEODKx,,Basic Roof:Telhado Colonial,ROOF
+4185,Basic Wall:15cm - Pintura Branca / Pintura Branca:864890,IfcWall,0YrmilRTbFKwgE1zOyuBQl,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+4510,PORTA DE ABRIR - 1 FOLHA:60 x 210:868445,IfcDoor,0YrmilRTbFKwgE1zOyuCI8,,PORTA DE ABRIR - 1 FOLHA:60 x 210,N/A
+5932,PORTA VENEZIANA DE ABRIR - 2 FOLHAS:105 X 2110:872232,IfcDoor,0YrmilRTbFKwgE1zOyuClz,,PORTA VENEZIANA DE ABRIR - 2 FOLHAS:105 X 2110,N/A
+6247,PORTA DE ABRIR - 1 FOLHA:70 x 210:873211,IfcDoor,3VgqswZ81AMBeIOGo7VtYu,,PORTA DE ABRIR - 1 FOLHA:70 x 210,N/A
+6554,PORTA DE ABRIR - 1 FOLHA:80 x 210:873317,IfcDoor,3VgqswZ81AMBeIOGo7Vtac,,PORTA DE ABRIR - 1 FOLHA:80 x 210,N/A
+6860,PORTA DE ABRIR - 1 FOLHA:80 x 210:873448,IfcDoor,3VgqswZ81AMBeIOGo7Vtch,,PORTA DE ABRIR - 1 FOLHA:80 x 210,N/A
+6877,PORTA DE ABRIR - 1 FOLHA:60 x 210:873588,IfcDoor,3VgqswZ81AMBeIOGo7Vtut,,PORTA DE ABRIR - 1 FOLHA:60 x 210,N/A
+7180,PORTA DE ABRIR - 1 FOLHA:70 x 210:873925,IfcDoor,3VgqswZ81AMBeIOGo7Vt_6,,PORTA DE ABRIR - 1 FOLHA:70 x 210,N/A
+7219,Basic Wall:15cm - Pintura Branca / Pintura Branca:879199,IfcWallStandardCase,03qet589T0XfjI4ToQSw8m,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+7229,Basic Wall:15cm - Pintura Branca / Pintura Branca:879199:1,IfcOpeningElement,2oCu5yam4hDp19R1aBfXbl,,Opening,N/A
+7243,Basic Wall:15cm - Pintura Branca / Pintura Branca:879199,IfcOpeningElement,0kWMwplFu7BVYxTjyTqQmc,,Opening,N/A
+7289,M_Dimension Lumber-Column:200x150:880162,IfcColumn,16SpyTjgL9LQpDyJaq5m4T,,M_Dimension Lumber-Column:200x150,N/A
+8181,Porta de correr - vidro c.perfil 4 folhas:4.8x2.7:881036,IfcDoor,16SpyTjgL9LQpDyJaq5nwp,,Porta de correr - vidro c.perfil 4 folhas:4.8x2.7,N/A
+9595,Porta de correr dupla envidraçada com revestimento:160 x 210cm:883763,IfcDoor,18YYWOC39Fbxe$h9ext$BM,,Porta de correr dupla envidraçada com revestimento:160 x 210cm,N/A
+11009,Porta de correr dupla envidraçada com revestimento:160 x 210cm:883963,IfcDoor,18YYWOC39Fbxe$h9ext$8U,,Porta de correr dupla envidraçada com revestimento:160 x 210cm,N/A
+11159,PORTA DE VIDRO COM ESQUADRIA DE CORRER - 4 FOLHAS:320 x 210:889036,IfcDoor,18YYWOC39Fbxe$h9extnuf,,PORTA DE VIDRO COM ESQUADRIA DE CORRER - 4 FOLHAS:320 x 210,N/A
+11174,Sloped Glazing:Vidraça inclinada:893434,IfcRoof,10UXJtgpbAPA$s5ElOM4Fv,,Sloped Glazing:Vidraça inclinada,N/A
+11207,Painel do sistema:Vazio:893480,IfcPlate,10UXJtgpbAPA$s5ElOM40h,,Painel do sistema:Vazio,N/A
+11219,Painel do sistema:Vazio:893503,IfcPlate,10UXJtgpbAPA$s5ElOM40y,,Painel do sistema:Vazio,N/A
+11231,Painel do sistema:Vazio:893505,IfcPlate,10UXJtgpbAPA$s5ElOM412,,Painel do sistema:Vazio,N/A
+11243,Painel do sistema:Vazio:893507,IfcPlate,10UXJtgpbAPA$s5ElOM410,,Painel do sistema:Vazio,N/A
+11255,Painel do sistema:Vazio:893509,IfcPlate,10UXJtgpbAPA$s5ElOM416,,Painel do sistema:Vazio,N/A
+11267,Painel do sistema:Vazio:893511,IfcPlate,10UXJtgpbAPA$s5ElOM414,,Painel do sistema:Vazio,N/A
+11279,Painel do sistema:Vazio:893513,IfcPlate,10UXJtgpbAPA$s5ElOM41A,,Painel do sistema:Vazio,N/A
+11291,Painel do sistema:Vazio:893515,IfcPlate,10UXJtgpbAPA$s5ElOM418,,Painel do sistema:Vazio,N/A
+11316,Montante retangular:50 x 150mm telhado axiom:893592,IfcMember,10UXJtgpbAPA$s5ElOM42R,,Montante retangular:50 x 150mm telhado axiom,N/A
+11328,Montante retangular:50 x 150mm telhado axiom:893593,IfcMember,10UXJtgpbAPA$s5ElOM42Q,,Montante retangular:50 x 150mm telhado axiom,N/A
+11340,Montante retangular:50 x 150mm telhado axiom:893594,IfcMember,10UXJtgpbAPA$s5ElOM42P,,Montante retangular:50 x 150mm telhado axiom,N/A
+11352,Montante retangular:50 x 150mm telhado axiom:893595,IfcMember,10UXJtgpbAPA$s5ElOM42O,,Montante retangular:50 x 150mm telhado axiom,N/A
+11364,Montante retangular:50 x 150mm telhado axiom:893596,IfcMember,10UXJtgpbAPA$s5ElOM42V,,Montante retangular:50 x 150mm telhado axiom,N/A
+11376,Montante retangular:50 x 150mm telhado axiom:893597,IfcMember,10UXJtgpbAPA$s5ElOM42U,,Montante retangular:50 x 150mm telhado axiom,N/A
+11388,Montante retangular:50 x 150mm telhado axiom:893598,IfcMember,10UXJtgpbAPA$s5ElOM42T,,Montante retangular:50 x 150mm telhado axiom,N/A
+11413,Montante retangular:50 x 150mm telhado axiom:893655,IfcMember,10UXJtgpbAPA$s5ElOM43K,,Montante retangular:50 x 150mm telhado axiom,N/A
+11438,Montante retangular:50 x 150mm telhado axiom:893656,IfcMember,10UXJtgpbAPA$s5ElOM43R,,Montante retangular:50 x 150mm telhado axiom,N/A
+11468,Painel do sistema:Vazio:893479,IfcPlate,10UXJtgpbAPA$s5ElOM40a,,Painel do sistema:Vazio,N/A
+11492,Painel do sistema:Vazio:893489,IfcPlate,10UXJtgpbAPA$s5ElOM40o,,Painel do sistema:Vazio,N/A
+11504,Painel do sistema:Vazio:893491,IfcPlate,10UXJtgpbAPA$s5ElOM40m,,Painel do sistema:Vazio,N/A
+11516,Painel do sistema:Vazio:893493,IfcPlate,10UXJtgpbAPA$s5ElOM40s,,Painel do sistema:Vazio,N/A
+11528,Painel do sistema:Vazio:893495,IfcPlate,10UXJtgpbAPA$s5ElOM40q,,Painel do sistema:Vazio,N/A
+11540,Painel do sistema:Vazio:893497,IfcPlate,10UXJtgpbAPA$s5ElOM40w,,Painel do sistema:Vazio,N/A
+11552,Painel do sistema:Vazio:893499,IfcPlate,10UXJtgpbAPA$s5ElOM40u,,Painel do sistema:Vazio,N/A
+11564,Painel do sistema:Vazio:893501,IfcPlate,10UXJtgpbAPA$s5ElOM40_,,Painel do sistema:Vazio,N/A
+11576,Montante retangular:50 x 150mm telhado axiom:893599,IfcMember,10UXJtgpbAPA$s5ElOM42S,,Montante retangular:50 x 150mm telhado axiom,N/A
+11588,Montante retangular:50 x 150mm telhado axiom:893600,IfcMember,10UXJtgpbAPA$s5ElOM42Z,,Montante retangular:50 x 150mm telhado axiom,N/A
+11600,Montante retangular:50 x 150mm telhado axiom:893601,IfcMember,10UXJtgpbAPA$s5ElOM42Y,,Montante retangular:50 x 150mm telhado axiom,N/A
+11612,Montante retangular:50 x 150mm telhado axiom:893602,IfcMember,10UXJtgpbAPA$s5ElOM42X,,Montante retangular:50 x 150mm telhado axiom,N/A
+11624,Montante retangular:50 x 150mm telhado axiom:893603,IfcMember,10UXJtgpbAPA$s5ElOM42W,,Montante retangular:50 x 150mm telhado axiom,N/A
+11636,Montante retangular:50 x 150mm telhado axiom:893604,IfcMember,10UXJtgpbAPA$s5ElOM42d,,Montante retangular:50 x 150mm telhado axiom,N/A
+11648,Montante retangular:50 x 150mm telhado axiom:893605,IfcMember,10UXJtgpbAPA$s5ElOM42c,,Montante retangular:50 x 150mm telhado axiom,N/A
+11673,Montante retangular:50 x 150mm telhado axiom:893657,IfcMember,10UXJtgpbAPA$s5ElOM43Q,,Montante retangular:50 x 150mm telhado axiom,N/A
+11698,Montante retangular:50 x 150mm telhado axiom:893658,IfcMember,10UXJtgpbAPA$s5ElOM43P,,Montante retangular:50 x 150mm telhado axiom,N/A
+11710,Montante retangular:50 x 150mm telhado axiom:893659,IfcMember,10UXJtgpbAPA$s5ElOM43O,,Montante retangular:50 x 150mm telhado axiom,N/A
+12171,Floor:15cm - Concreto vassorado:899589,IfcSlab,10UXJtgpbAPA$s5ElOM5W6,,Floor:15cm - Concreto vassorado,FLOOR
+12172,Floor:15cm - Concreto vassorado:899589:2,IfcSlab,3teWJIUgw8Uc7yQGvT0nUq,,Floor:15cm - Concreto vassorado,FLOOR
+12173,Floor:15cm - Concreto vassorado:899589:3,IfcSlab,2VAb3JI2b8PosN3VHfAeId,,Floor:15cm - Concreto vassorado,FLOOR
+12174,Floor:15cm - Concreto vassorado:899589:4,IfcSlab,3dbjrxRz33esI5mEjWPLdj,,Floor:15cm - Concreto vassorado,FLOOR
+12175,Floor:15cm - Concreto vassorado:899589:5,IfcSlab,2o8SNlzcEX3yVI7jjBmmRQ,,Floor:15cm - Concreto vassorado,FLOOR
+12176,Floor:15cm - Concreto vassorado:899589:6,IfcSlab,1R9zEzfFyN7g$_COCVJbBI,,Floor:15cm - Concreto vassorado,FLOOR
+12177,Floor:15cm - Concreto vassorado:899589:7,IfcSlab,3bVWYl4ufm1KzOcHV4bu$5,,Floor:15cm - Concreto vassorado,FLOOR
+12178,Floor:15cm - Concreto vassorado:899589:8,IfcSlab,0VGwk6VSlLYRatPDuICk_t,,Floor:15cm - Concreto vassorado,FLOOR
+12179,Floor:15cm - Concreto vassorado:899589:9,IfcSlab,2dfTJ7pfxfLB2RiAEnzdFo,,Floor:15cm - Concreto vassorado,FLOOR
+12288,Precast Stair:Stair:906512,IfcStair,1f0ubJw15DlvdVb6mLKacs,,Precast Stair:Escada pré-moldada,N/A
+12418,Precast Stair:Stair:906512 Run 1,IfcStairFlight,1f0ubJw15DlvdVb6mLKafv,,Monolithic Run:Profundidade de 190 mm,N/A
+12544,Precast Stair:Stair:906512 Run 2,IfcStairFlight,1f0ubJw15DlvdVb6mLKdZY,,Monolithic Run:Profundidade de 190 mm,N/A
+14284,Precast Stair:Stair:906512 Run 3,IfcStairFlight,1f0ubJw15DlvdVb6mLKdaw,,Monolithic Run:Profundidade de 190 mm,N/A
+14349,Precast Stair:Stair:910912,IfcStair,1f0ubJw15DlvdVb6mLKdhc,,Precast Stair:Escada pré-moldada,N/A
+14479,Precast Stair:Stair:910912 Run 1,IfcStairFlight,1f0ubJw15DlvdVb6mLKdhd,,Monolithic Run:Profundidade de 190 mm,N/A
+14604,Precast Stair:Stair:910912 Run 2,IfcStairFlight,1f0ubJw15DlvdVb6mLKdev,,Monolithic Run:Profundidade de 190 mm,N/A
+16344,Precast Stair:Stair:910912 Run 3,IfcStairFlight,1f0ubJw15DlvdVb6mLKde5,,Monolithic Run:Profundidade de 190 mm,N/A
+16403,PORTA DE ABRIR - 1 FOLHA:70 x 210:917551,IfcDoor,0AmobgbPP28x08Ek6zwd0O,,PORTA DE ABRIR - 1 FOLHA:70 x 210,N/A
+16417,PORTA DE ABRIR - 1 FOLHA:80 x 210:917659,IfcDoor,0AmobgbPP28x08Ek6zwd2i,,PORTA DE ABRIR - 1 FOLHA:80 x 210,N/A
+16431,PORTA DE ABRIR - 1 FOLHA:80 x 210:917737,IfcDoor,0AmobgbPP28x08Ek6zwd3U,,PORTA DE ABRIR - 1 FOLHA:80 x 210,N/A
+16445,PORTA DE ABRIR - 1 FOLHA:70 x 210:917875,IfcDoor,0AmobgbPP28x08Ek6zwd54,,PORTA DE ABRIR - 1 FOLHA:70 x 210,N/A
+16511,Floor:Asfalto:919162,IfcSlab,0AmobgbPP28x08Ek6zwdPD,,Floor:Asfalto,FLOOR
+16592,Floor:15cm - Concreto vassorado:919419,IfcSlab,0AmobgbPP28x08Ek6zwdTC,,Floor:15cm - Concreto vassorado,FLOOR
+16665,Roads 1:Roads 1:920121,IfcBuildingElementProxy,0AmobgbPP28x08Ek6zwdeE,,Roads 1:Roads 1,N/A
+17603,Floor:15cm - Concreto vassorado:920574,IfcSlab,3NTfQHJjPAUOBB_$1wqPsh,,Floor:15cm - Concreto vassorado,FLOOR
+17604,Floor:15cm - Concreto vassorado:920574:2,IfcSlab,2y07fOPQajNxhtOjxuZ3mQ,,Floor:15cm - Concreto vassorado,FLOOR
+17605,Floor:15cm - Concreto vassorado:920574:3,IfcSlab,3c$C9PixobDarqcfORiUE8,,Floor:15cm - Concreto vassorado,FLOOR
+17606,Floor:15cm - Concreto vassorado:920574:4,IfcSlab,0vzhTbA$RYmcA3tjGhUKfE,,Floor:15cm - Concreto vassorado,FLOOR
+17607,Floor:15cm - Concreto vassorado:920574:5,IfcSlab,2yUSWFsHVZCdPziRmxjzJ8,,Floor:15cm - Concreto vassorado,FLOOR
+17608,Floor:15cm - Concreto vassorado:920574:6,IfcSlab,15iyfGxIGSkkHr7QcickCO,,Floor:15cm - Concreto vassorado,FLOOR
+17609,Floor:15cm - Concreto vassorado:920574:7,IfcSlab,2x1g8ECRGbS2_VH5Imm4H2,,Floor:15cm - Concreto vassorado,FLOOR
+17610,Floor:15cm - Concreto vassorado:920574:8,IfcSlab,28BzrzSTENArcGvAX7W1ZO,,Floor:15cm - Concreto vassorado,FLOOR
+17611,Floor:15cm - Concreto vassorado:920574:9,IfcSlab,0bXB9foHjoujeQexRj19WK,,Floor:15cm - Concreto vassorado,FLOOR
+17612,Floor:15cm - Concreto vassorado:920574:10,IfcSlab,0wtMU4wgiNk$YmrNtKyz1z,,Floor:15cm - Concreto vassorado,FLOOR
+17613,Floor:15cm - Concreto vassorado:920574:11,IfcSlab,2erW_8tILiMcXPxJ_Do0jB,,Floor:15cm - Concreto vassorado,FLOOR
+17614,Floor:15cm - Concreto vassorado:920574:12,IfcSlab,2CpUyT1_cV$NEuYLf3b6hp,,Floor:15cm - Concreto vassorado,FLOOR
+17615,Floor:15cm - Concreto vassorado:920574:13,IfcSlab,2JbD6DJ8_QDg_WhQt1iWQ0,,Floor:15cm - Concreto vassorado,FLOOR
+17616,Floor:15cm - Concreto vassorado:920574:14,IfcSlab,3fVonSOZFN1WBq1gpaLNBB,,Floor:15cm - Concreto vassorado,FLOOR
+17617,Floor:15cm - Concreto vassorado:920574:15,IfcSlab,0gLgiG6IGIwQk7W4O$XzfL,,Floor:15cm - Concreto vassorado,FLOOR
+17618,Floor:15cm - Concreto vassorado:920574:16,IfcSlab,3Z_35$9_GF_qYM9cWfh02S,,Floor:15cm - Concreto vassorado,FLOOR
+17619,Floor:15cm - Concreto vassorado:920574:17,IfcSlab,2sNsumLJ76IlXyCxZl7iVp,,Floor:15cm - Concreto vassorado,FLOOR
+17620,Floor:15cm - Concreto vassorado:920574:18,IfcSlab,1cpg87cdH1SjZ0ta_nrxdg,,Floor:15cm - Concreto vassorado,FLOOR
+17621,Floor:15cm - Concreto vassorado:920574:19,IfcSlab,0tF5hZaJEwh6cMLUQFZPkp,,Floor:15cm - Concreto vassorado,FLOOR
+17622,Floor:15cm - Concreto vassorado:920574:20,IfcSlab,1r6OO$YlFpQlMzMa6HJkQf,,Floor:15cm - Concreto vassorado,FLOOR
+17623,Floor:15cm - Concreto vassorado:920574:21,IfcSlab,1X6QJTP4FTmo$SPBN5$6GU,,Floor:15cm - Concreto vassorado,FLOOR
+17624,Floor:15cm - Concreto vassorado:920574:22,IfcSlab,37DnKjEXOKdiPmvGRy05i2,,Floor:15cm - Concreto vassorado,FLOOR
+17625,Floor:15cm - Concreto vassorado:920574:23,IfcSlab,3JOuEyX9GV3a0L5RH__OVy,,Floor:15cm - Concreto vassorado,FLOOR
+17626,Floor:15cm - Concreto vassorado:920574:24,IfcSlab,0N5vc3fbMqGqi$dkBaHW89,,Floor:15cm - Concreto vassorado,FLOOR
+17627,Floor:15cm - Concreto vassorado:920574:25,IfcSlab,0PQlMA2zcC7OlU7CJ4xvso,,Floor:15cm - Concreto vassorado,FLOOR
+17628,Floor:15cm - Concreto vassorado:920574:26,IfcSlab,3fQDmKfYgoqN69tpi72kBk,,Floor:15cm - Concreto vassorado,FLOOR
+17629,Floor:15cm - Concreto vassorado:920574:27,IfcSlab,2tVGJjzHda0RHpKK422AVG,,Floor:15cm - Concreto vassorado,FLOOR
+17630,Floor:15cm - Concreto vassorado:920574:28,IfcSlab,3rKuz343$YNzH$QDS4r9iy,,Floor:15cm - Concreto vassorado,FLOOR
+17631,Floor:15cm - Concreto vassorado:920574:29,IfcSlab,2$k6SDvZScPZkogIJB9wBB,,Floor:15cm - Concreto vassorado,FLOOR
+17632,Floor:15cm - Concreto vassorado:920574:30,IfcSlab,2xXbiI$Ev6jbtwU1HybHiJ,,Floor:15cm - Concreto vassorado,FLOOR
+17633,Floor:15cm - Concreto vassorado:920574:31,IfcSlab,05DfnvVC4auecy4bZ5eFKB,,Floor:15cm - Concreto vassorado,FLOOR
+17634,Floor:15cm - Concreto vassorado:920574:32,IfcSlab,1WMg1UEIai$0hMe9wl7WjI,,Floor:15cm - Concreto vassorado,FLOOR
+17635,Floor:15cm - Concreto vassorado:920574:33,IfcSlab,1jdtF0EiA3HOWfZzJeg7yD,,Floor:15cm - Concreto vassorado,FLOOR
+18823,Porta de correr - vidro c.perfil 4 folhas:3.20x2.10m:932566,IfcDoor,0mwHAB$PHBaxAlZA6toDOT,,Porta de correr - vidro c.perfil 4 folhas:3.20x2.10m,N/A
+19693,Porta de correr - vidro c.perfil 4 folhas:3.20x2.10m:932610,IfcDoor,0mwHAB$PHBaxAlZA6toDV9,,Porta de correr - vidro c.perfil 4 folhas:3.20x2.10m,N/A
+20561,"Porta de correr - vidro c.perfil 4 folhas:5,00x2.10m 2:937269",IfcDoor,0mwHAB$PHBaxAlZA6toA7_,,"Porta de correr - vidro c.perfil 4 folhas:5,00x2.10m 2",N/A
+20649,JANELA COM ESQUADRIA MAXIM-AR - 1 FOLHA:80 x 60:941179,IfcWindow,1WisvHjVn2cftfbGzWpiIZ,,JANELA COM ESQUADRIA MAXIM-AR - 1 FOLHA:80 x 60,N/A
+20737,JANELA COM ESQUADRIA MAXIM-AR - 1 FOLHA:80 x 60:941338,IfcWindow,1WisvHjVn2cftfbGzWpiN2,,JANELA COM ESQUADRIA MAXIM-AR - 1 FOLHA:80 x 60,N/A
+20928,Abertura Vão:100 x 210:942179,IfcBuildingElementProxy,1WisvHjVn2cftfbGzWplYx,,Abertura Vão:100 x 210,N/A
+21241,PORTA DE ABRIR - 1 FOLHA:90 x 210:942321,IfcDoor,1WisvHjVn2cftfbGzWplWf,,PORTA DE ABRIR - 1 FOLHA:90 x 210,N/A
+21548,PORTA DE ABRIR - 1 FOLHA:60 x 210:942481,IfcDoor,1WisvHjVn2cftfbGzWplb9,,PORTA DE ABRIR - 1 FOLHA:60 x 210,N/A
+21648,RT_Jan._Correr 2 Folhas:160x60:946650,IfcWindow,1WisvHjVn2cftfbGzWpka2,,RT_Jan._Correr 2 Folhas:160x60,N/A
+21730,RT_Jan._Correr 2 Folhas:140x60:946913,IfcWindow,1WisvHjVn2cftfbGzWpkev,,RT_Jan._Correr 2 Folhas:140x60,N/A
+21832,Basic Wall:15cm - Pintura Branca / Pintura Branca:950209,IfcWall,1C4IYG_wTFOh1j0jk$ydl2,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+21845,"Curtain Wall:Painel 1,00 x 2.10:950311",IfcCurtainWall,1C4IYG_wTFOh1j0jk$yeGa,,"Curtain Wall:Painel 1,00 x 2.10",N/A
+21868,Painel do sistema:Envidraçado:950312,IfcPlate,1C4IYG_wTFOh1j0jk$yeGh,,Painel do sistema:Envidraçado,N/A
+21878,Painel do sistema:Envidraçado:950321,IfcPlate,1C4IYG_wTFOh1j0jk$yeGo,,Painel do sistema:Envidraçado,N/A
+21888,Painel do sistema:Envidraçado:950324,IfcPlate,1C4IYG_wTFOh1j0jk$yeGt,,Painel do sistema:Envidraçado,N/A
+21898,Painel do sistema:Envidraçado:950327,IfcPlate,1C4IYG_wTFOh1j0jk$yeGq,,Painel do sistema:Envidraçado,N/A
+21921,Montante retangular:50 x 150mm:950315,IfcMember,1C4IYG_wTFOh1j0jk$yeGe,,Montante retangular:50 x 150mm,N/A
+21944,Montante retangular:50 x 150mm:950317,IfcMember,1C4IYG_wTFOh1j0jk$yeGk,,Montante retangular:50 x 150mm,N/A
+21967,Montante retangular:50 x 150mm:950318,IfcMember,1C4IYG_wTFOh1j0jk$yeGj,,Montante retangular:50 x 150mm,N/A
+21990,Montante retangular:50 x 150mm:950332,IfcMember,1C4IYG_wTFOh1j0jk$yeG$,,Montante retangular:50 x 150mm,N/A
+22000,Montante retangular:50 x 150mm:950333,IfcMember,1C4IYG_wTFOh1j0jk$yeG_,,Montante retangular:50 x 150mm,N/A
+22023,Montante retangular:50 x 150mm:950334,IfcMember,1C4IYG_wTFOh1j0jk$yeGz,,Montante retangular:50 x 150mm,N/A
+22046,Montante retangular:50 x 150mm:950336,IfcMember,1C4IYG_wTFOh1j0jk$yeH3,,Montante retangular:50 x 150mm,N/A
+22069,Montante retangular:50 x 150mm:950337,IfcMember,1C4IYG_wTFOh1j0jk$yeH2,,Montante retangular:50 x 150mm,N/A
+22079,Montante retangular:50 x 150mm:950338,IfcMember,1C4IYG_wTFOh1j0jk$yeH1,,Montante retangular:50 x 150mm,N/A
+22102,Montante retangular:50 x 150mm:950344,IfcMember,1C4IYG_wTFOh1j0jk$yeHB,,Montante retangular:50 x 150mm,N/A
+22112,Montante retangular:50 x 150mm:950346,IfcMember,1C4IYG_wTFOh1j0jk$yeH9,,Montante retangular:50 x 150mm,N/A
+22122,Montante retangular:50 x 150mm:950348,IfcMember,1C4IYG_wTFOh1j0jk$yeHF,,Montante retangular:50 x 150mm,N/A
+22145,Montante retangular:50 x 150mm:950352,IfcMember,1C4IYG_wTFOh1j0jk$yeHJ,,Montante retangular:50 x 150mm,N/A
+22350,Basic Wall:15cm - Pintura Branca / Pintura Branca:950802,IfcWallStandardCase,1C4IYG_wTFOh1j0jk$yeOH,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+22367,Basic Wall:15cm - Pintura Branca / Pintura Branca:950802:1,IfcOpeningElement,3KDjO4FS2Ijhsqgl4$_$s1,,Opening,N/A
+22392,RT_Jan._Correr 2 Folhas:160x60:951934,IfcWindow,1C4IYG_wTFOh1j0jk$ye9z,,RT_Jan._Correr 2 Folhas:160x60,N/A
+22470,RT_Jan._Correr 2 Folhas:160x60:952180,IfcWindow,1C4IYG_wTFOh1j0jk$yeDt,,RT_Jan._Correr 2 Folhas:160x60,N/A
+22499,M_Dimension Lumber-Column:200x150:952398,IfcColumn,1C4IYG_wTFOh1j0jk$yenD,,M_Dimension Lumber-Column:200x150,N/A
+22519,RT_Jan._Correr 2 Folhas:160x60:952546,IfcWindow,1C4IYG_wTFOh1j0jk$yepX,,RT_Jan._Correr 2 Folhas:160x60,N/A
+22533,RT_Jan._Correr 2 Folhas:140x60:952547,IfcWindow,1C4IYG_wTFOh1j0jk$yepW,,RT_Jan._Correr 2 Folhas:140x60,N/A
+22611,RT_Jan._Correr 2 Folhas:160x60:952548,IfcWindow,1C4IYG_wTFOh1j0jk$yepd,,RT_Jan._Correr 2 Folhas:160x60,N/A
+22692,RT_Jan._Correr 2 Folhas:160x60:952549,IfcWindow,1C4IYG_wTFOh1j0jk$yepc,,RT_Jan._Correr 2 Folhas:160x60,N/A
+22717,Basic Wall:15cm - Pintura Branca / Pintura Branca:952764,IfcWallStandardCase,3FZHb8plP4cwueeCA7ak2b,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+23092,Correr de Vidro 4 Folhas:320 x 210 cm 2:952973,IfcDoor,3FZHb8plP4cwueeCA7akEK,,Correr de Vidro 4 Folhas:320 x 210 cm 2,N/A
+23111,RT_Jan._Correr 2 Folhas:160x60:954174,IfcWindow,3FZHb8plP4cwueeCA7akOd,,RT_Jan._Correr 2 Folhas:160x60,N/A
+23125,RT_Jan._Correr 2 Folhas:160x60:954379,IfcWindow,3FZHb8plP4cwueeCA7alaI,,RT_Jan._Correr 2 Folhas:160x60,N/A
+23148,Basic Wall:15cm - Pintura Branca / Pintura Branca:954551,IfcWallStandardCase,3FZHb8plP4cwueeCA7alck,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+23173,Basic Wall:15cm - Pintura Branca / Pintura Branca:954635,IfcWallStandardCase,3FZHb8plP4cwueeCA7alWI,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+23220,Basic Wall:15cm - Pintura Branca / Pintura Branca:954699,IfcWallStandardCase,3FZHb8plP4cwueeCA7alXI,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+23245,Basic Wall:15cm - Pintura Branca / Pintura Branca:954892,IfcWallStandardCase,3FZHb8plP4cwueeCA7aliL,,Basic Wall:15cm - Pintura Branca / Pintura Branca,N/A
+23262,PORTA DE ABRIR - 1 FOLHA:70 x 210:955095,IfcDoor,3FZHb8plP4cwueeCA7allE,,PORTA DE ABRIR - 1 FOLHA:70 x 210,N/A
+23273,Basic Roof:Telhado Colonial:958820,IfcRoof,0OMbpmBkv3wgpDA2Mf5m6t,,Basic Roof:Telhado Colonial,N/A
+23289,Basic Roof:Telhado Colonial:958820,IfcSlab,0OMbpmBkv3wgpDA2Uf5m6t,,Basic Roof:Telhado Colonial,ROOF
+23310,Basic Roof:Telhado Colonial:958820,IfcSlab,0OMbpmBkv3wgpDA2Qf5m6t,,Basic Roof:Telhado Colonial,ROOF
+23346,Sloped Glazing:Vidraça inclinada:958896,IfcRoof,0OMbpmBkv3wgpDA2Mf5m5Z,,Sloped Glazing:Vidraça inclinada,N/A
+23370,Painel do sistema:Vazio:958913,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4I,,Painel do sistema:Vazio,N/A
+23382,Painel do sistema:Vazio:958938,IfcPlate,0OMbpmBkv3wgpDA2Mf5m49,,Painel do sistema:Vazio,N/A
+23394,Painel do sistema:Vazio:958940,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4F,,Painel do sistema:Vazio,N/A
+23406,Painel do sistema:Vazio:958942,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4D,,Painel do sistema:Vazio,N/A
+23418,Painel do sistema:Vazio:958944,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4p,,Painel do sistema:Vazio,N/A
+23430,Painel do sistema:Vazio:958946,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4n,,Painel do sistema:Vazio,N/A
+23442,Painel do sistema:Vazio:958948,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4t,,Painel do sistema:Vazio,N/A
+23454,Painel do sistema:Vazio:958950,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4r,,Painel do sistema:Vazio,N/A
+23466,Painel do sistema:Vazio:958952,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4x,,Painel do sistema:Vazio,N/A
+23478,Painel do sistema:Vazio:958954,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4v,,Painel do sistema:Vazio,N/A
+23503,Montante retangular:50 x 150mm telhado axiom:958915,IfcMember,0OMbpmBkv3wgpDA2Mf5m4G,,Montante retangular:50 x 150mm telhado axiom,N/A
+23528,Montante retangular:50 x 150mm telhado axiom:958916,IfcMember,0OMbpmBkv3wgpDA2Mf5m4N,,Montante retangular:50 x 150mm telhado axiom,N/A
+23560,Montante retangular:50 x 150mm telhado axiom:958959,IfcMember,0OMbpmBkv3wgpDA2Mf5m4y,,Montante retangular:50 x 150mm telhado axiom,N/A
+23572,Montante retangular:50 x 150mm telhado axiom:958960,IfcMember,0OMbpmBkv3wgpDA2Mf5m4Z,,Montante retangular:50 x 150mm telhado axiom,N/A
+23584,Montante retangular:50 x 150mm telhado axiom:958961,IfcMember,0OMbpmBkv3wgpDA2Mf5m4Y,,Montante retangular:50 x 150mm telhado axiom,N/A
+23596,Montante retangular:50 x 150mm telhado axiom:958962,IfcMember,0OMbpmBkv3wgpDA2Mf5m4X,,Montante retangular:50 x 150mm telhado axiom,N/A
+23608,Montante retangular:50 x 150mm telhado axiom:958963,IfcMember,0OMbpmBkv3wgpDA2Mf5m4W,,Montante retangular:50 x 150mm telhado axiom,N/A
+23620,Montante retangular:50 x 150mm telhado axiom:958964,IfcMember,0OMbpmBkv3wgpDA2Mf5m4d,,Montante retangular:50 x 150mm telhado axiom,N/A
+23632,Montante retangular:50 x 150mm telhado axiom:958965,IfcMember,0OMbpmBkv3wgpDA2Mf5m4c,,Montante retangular:50 x 150mm telhado axiom,N/A
+23644,Montante retangular:50 x 150mm telhado axiom:958966,IfcMember,0OMbpmBkv3wgpDA2Mf5m4b,,Montante retangular:50 x 150mm telhado axiom,N/A
+23656,Montante retangular:50 x 150mm telhado axiom:958967,IfcMember,0OMbpmBkv3wgpDA2Mf5m4a,,Montante retangular:50 x 150mm telhado axiom,N/A
+23670,Painel do sistema:Vazio:958912,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4J,,Painel do sistema:Vazio,N/A
+23682,Painel do sistema:Vazio:958920,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4R,,Painel do sistema:Vazio,N/A
+23694,Painel do sistema:Vazio:958922,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4P,,Painel do sistema:Vazio,N/A
+23706,Painel do sistema:Vazio:958924,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4V,,Painel do sistema:Vazio,N/A
+23718,Painel do sistema:Vazio:958926,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4T,,Painel do sistema:Vazio,N/A
+23730,Painel do sistema:Vazio:958928,IfcPlate,0OMbpmBkv3wgpDA2Mf5m43,,Painel do sistema:Vazio,N/A
+23742,Painel do sistema:Vazio:958930,IfcPlate,0OMbpmBkv3wgpDA2Mf5m41,,Painel do sistema:Vazio,N/A
+23754,Painel do sistema:Vazio:958932,IfcPlate,0OMbpmBkv3wgpDA2Mf5m47,,Painel do sistema:Vazio,N/A
+23766,Painel do sistema:Vazio:958934,IfcPlate,0OMbpmBkv3wgpDA2Mf5m45,,Painel do sistema:Vazio,N/A
+23778,Painel do sistema:Vazio:958936,IfcPlate,0OMbpmBkv3wgpDA2Mf5m4B,,Painel do sistema:Vazio,N/A
+23790,Montante retangular:50 x 150mm telhado axiom:958917,IfcMember,0OMbpmBkv3wgpDA2Mf5m4M,,Montante retangular:50 x 150mm telhado axiom,N/A
+23802,Montante retangular:50 x 150mm telhado axiom:958918,IfcMember,0OMbpmBkv3wgpDA2Mf5m4L,,Montante retangular:50 x 150mm telhado axiom,N/A
+23814,Montante retangular:50 x 150mm telhado axiom:958968,IfcMember,0OMbpmBkv3wgpDA2Mf5m4h,,Montante retangular:50 x 150mm telhado axiom,N/A
+23826,Montante retangular:50 x 150mm telhado axiom:958969,IfcMember,0OMbpmBkv3wgpDA2Mf5m4g,,Montante retangular:50 x 150mm telhado axiom,N/A
+23838,Montante retangular:50 x 150mm telhado axiom:958970,IfcMember,0OMbpmBkv3wgpDA2Mf5m4f,,Montante retangular:50 x 150mm telhado axiom,N/A
+23850,Montante retangular:50 x 150mm telhado axiom:958971,IfcMember,0OMbpmBkv3wgpDA2Mf5m4e,,Montante retangular:50 x 150mm telhado axiom,N/A
+23862,Montante retangular:50 x 150mm telhado axiom:958972,IfcMember,0OMbpmBkv3wgpDA2Mf5m4l,,Montante retangular:50 x 150mm telhado axiom,N/A
+23874,Montante retangular:50 x 150mm telhado axiom:958973,IfcMember,0OMbpmBkv3wgpDA2Mf5m4k,,Montante retangular:50 x 150mm telhado axiom,N/A
+23886,Montante retangular:50 x 150mm telhado axiom:958974,IfcMember,0OMbpmBkv3wgpDA2Mf5m4j,,Montante retangular:50 x 150mm telhado axiom,N/A
+23898,Montante retangular:50 x 150mm telhado axiom:958975,IfcMember,0OMbpmBkv3wgpDA2Mf5m4i,,Montante retangular:50 x 150mm telhado axiom,N/A
+23910,Montante retangular:50 x 150mm telhado axiom:958976,IfcMember,0OMbpmBkv3wgpDA2Mf5mBJ,,Montante retangular:50 x 150mm telhado axiom,N/A
+24447,Fascia:Frontão:958989,IfcBuildingElementProxy,0OMbpmBkv3wgpDA2Mf5mBU,,Fascia:Frontão,N/A
+24462,Basic Roof:Telhado Colonial:959243,IfcRoof,0OMbpmBkv3wgpDA2Mf5mFO,,Basic Roof:Telhado Colonial,N/A
+24478,Basic Roof:Telhado Colonial:959243,IfcSlab,0OMbpmBkv3wgpDA2Uf5mFO,,Basic Roof:Telhado Colonial,ROOF
+24494,Basic Roof:Telhado Colonial:959243,IfcSlab,0OMbpmBkv3wgpDA2Qf5mFO,,Basic Roof:Telhado Colonial,ROOF
+24530,Sloped Glazing:Vidraça inclinada:959255,IfcRoof,0OMbpmBkv3wgpDA2Mf5mF4,,Sloped Glazing:Vidraça inclinada,N/A
+24556,Painel do sistema:Vazio:959269,IfcPlate,0OMbpmBkv3wgpDA2Mf5mFs,,Painel do sistema:Vazio,N/A
+24568,Painel do sistema:Vazio:959277,IfcPlate,0OMbpmBkv3wgpDA2Mf5mF_,,Painel do sistema:Vazio,N/A
+24580,Painel do sistema:Vazio:959279,IfcPlate,0OMbpmBkv3wgpDA2Mf5mFy,,Painel do sistema:Vazio,N/A
+24592,Painel do sistema:Vazio:959281,IfcPlate,0OMbpmBkv3wgpDA2Mf5mFY,,Painel do sistema:Vazio,N/A
+24604,Painel do sistema:Vazio:959283,IfcPlate,0OMbpmBkv3wgpDA2Mf5mFW,,Painel do sistema:Vazio,N/A
+24616,Painel do sistema:Vazio:959285,IfcPlate,0OMbpmBkv3wgpDA2Mf5mFc,,Painel do sistema:Vazio,N/A
+24628,Painel do sistema:Vazio:959287,IfcPlate,0OMbpmBkv3wgpDA2Mf5mFa,,Painel do sistema:Vazio,N/A
+24640,Painel do sistema:Vazio:959289,IfcPlate,0OMbpmBkv3wgpDA2Mf5mFg,,Painel do sistema:Vazio,N/A
+24652,Painel do sistema:Vazio:959291,IfcPlate,0OMbpmBkv3wgpDA2Mf5mFe,,Painel do sistema:Vazio,N/A
+24664,Painel do sistema:Vazio:959293,IfcPlate,0OMbpmBkv3wgpDA2Mf5mFk,,Painel do sistema:Vazio,N/A
+24676,Painel do sistema:Vazio:959295,IfcPlate,0OMbpmBkv3wgpDA2Mf5mFi,,Painel do sistema:Vazio,N/A
+24688,Painel do sistema:Vazio:959297,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEI,,Painel do sistema:Vazio,N/A
+24700,Painel do sistema:Vazio:959299,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEG,,Painel do sistema:Vazio,N/A
+24712,Painel do sistema:Vazio:959301,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEM,,Painel do sistema:Vazio,N/A
+24724,Painel do sistema:Vazio:959303,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEK,,Painel do sistema:Vazio,N/A
+24736,Painel do sistema:Vazio:959305,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEQ,,Painel do sistema:Vazio,N/A
+24761,Montante retangular:50 x 150mm telhado axiom:959274,IfcMember,0OMbpmBkv3wgpDA2Mf5mFv,,Montante retangular:50 x 150mm telhado axiom,N/A
+24786,Montante retangular:50 x 150mm telhado axiom:959275,IfcMember,0OMbpmBkv3wgpDA2Mf5mFu,,Montante retangular:50 x 150mm telhado axiom,N/A
+24818,Montante retangular:50 x 150mm telhado axiom:959355,IfcMember,0OMbpmBkv3wgpDA2Mf5mEe,,Montante retangular:50 x 150mm telhado axiom,N/A
+24830,Montante retangular:50 x 150mm telhado axiom:959356,IfcMember,0OMbpmBkv3wgpDA2Mf5mEl,,Montante retangular:50 x 150mm telhado axiom,N/A
+24842,Montante retangular:50 x 150mm telhado axiom:959357,IfcMember,0OMbpmBkv3wgpDA2Mf5mEk,,Montante retangular:50 x 150mm telhado axiom,N/A
+24854,Montante retangular:50 x 150mm telhado axiom:959358,IfcMember,0OMbpmBkv3wgpDA2Mf5mEj,,Montante retangular:50 x 150mm telhado axiom,N/A
+24866,Montante retangular:50 x 150mm telhado axiom:959359,IfcMember,0OMbpmBkv3wgpDA2Mf5mEi,,Montante retangular:50 x 150mm telhado axiom,N/A
+24878,Montante retangular:50 x 150mm telhado axiom:959360,IfcMember,0OMbpmBkv3wgpDA2Mf5mDJ,,Montante retangular:50 x 150mm telhado axiom,N/A
+24890,Montante retangular:50 x 150mm telhado axiom:959361,IfcMember,0OMbpmBkv3wgpDA2Mf5mDI,,Montante retangular:50 x 150mm telhado axiom,N/A
+24902,Montante retangular:50 x 150mm telhado axiom:959362,IfcMember,0OMbpmBkv3wgpDA2Mf5mDH,,Montante retangular:50 x 150mm telhado axiom,N/A
+24914,Montante retangular:50 x 150mm telhado axiom:959363,IfcMember,0OMbpmBkv3wgpDA2Mf5mDG,,Montante retangular:50 x 150mm telhado axiom,N/A
+24926,Montante retangular:50 x 150mm telhado axiom:959364,IfcMember,0OMbpmBkv3wgpDA2Mf5mDN,,Montante retangular:50 x 150mm telhado axiom,N/A
+24938,Montante retangular:50 x 150mm telhado axiom:959365,IfcMember,0OMbpmBkv3wgpDA2Mf5mDM,,Montante retangular:50 x 150mm telhado axiom,N/A
+24950,Montante retangular:50 x 150mm telhado axiom:959366,IfcMember,0OMbpmBkv3wgpDA2Mf5mDL,,Montante retangular:50 x 150mm telhado axiom,N/A
+24962,Montante retangular:50 x 150mm telhado axiom:959367,IfcMember,0OMbpmBkv3wgpDA2Mf5mDK,,Montante retangular:50 x 150mm telhado axiom,N/A
+24974,Montante retangular:50 x 150mm telhado axiom:959368,IfcMember,0OMbpmBkv3wgpDA2Mf5mDR,,Montante retangular:50 x 150mm telhado axiom,N/A
+24986,Montante retangular:50 x 150mm telhado axiom:959369,IfcMember,0OMbpmBkv3wgpDA2Mf5mDQ,,Montante retangular:50 x 150mm telhado axiom,N/A
+25004,Painel do sistema:Vazio:959270,IfcPlate,0OMbpmBkv3wgpDA2Mf5mFr,,Painel do sistema:Vazio,N/A
+25016,Painel do sistema:Vazio:959307,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEO,,Painel do sistema:Vazio,N/A
+25028,Painel do sistema:Vazio:959309,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEU,,Painel do sistema:Vazio,N/A
+25040,Painel do sistema:Vazio:959311,IfcPlate,0OMbpmBkv3wgpDA2Mf5mES,,Painel do sistema:Vazio,N/A
+25052,Painel do sistema:Vazio:959313,IfcPlate,0OMbpmBkv3wgpDA2Mf5mE2,,Painel do sistema:Vazio,N/A
+25064,Painel do sistema:Vazio:959315,IfcPlate,0OMbpmBkv3wgpDA2Mf5mE0,,Painel do sistema:Vazio,N/A
+25076,Painel do sistema:Vazio:959317,IfcPlate,0OMbpmBkv3wgpDA2Mf5mE6,,Painel do sistema:Vazio,N/A
+25088,Painel do sistema:Vazio:959319,IfcPlate,0OMbpmBkv3wgpDA2Mf5mE4,,Painel do sistema:Vazio,N/A
+25100,Painel do sistema:Vazio:959321,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEA,,Painel do sistema:Vazio,N/A
+25112,Painel do sistema:Vazio:959323,IfcPlate,0OMbpmBkv3wgpDA2Mf5mE8,,Painel do sistema:Vazio,N/A
+25124,Painel do sistema:Vazio:959325,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEE,,Painel do sistema:Vazio,N/A
+25136,Painel do sistema:Vazio:959327,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEC,,Painel do sistema:Vazio,N/A
+25148,Painel do sistema:Vazio:959329,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEo,,Painel do sistema:Vazio,N/A
+25160,Painel do sistema:Vazio:959331,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEm,,Painel do sistema:Vazio,N/A
+25172,Painel do sistema:Vazio:959333,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEs,,Painel do sistema:Vazio,N/A
+25184,Painel do sistema:Vazio:959335,IfcPlate,0OMbpmBkv3wgpDA2Mf5mEq,,Painel do sistema:Vazio,N/A
+25196,Montante retangular:50 x 150mm telhado axiom:959272,IfcMember,0OMbpmBkv3wgpDA2Mf5mFx,,Montante retangular:50 x 150mm telhado axiom,N/A
+25208,Montante retangular:50 x 150mm telhado axiom:959273,IfcMember,0OMbpmBkv3wgpDA2Mf5mFw,,Montante retangular:50 x 150mm telhado axiom,N/A
+25220,Montante retangular:50 x 150mm telhado axiom:959340,IfcMember,0OMbpmBkv3wgpDA2Mf5mE$,,Montante retangular:50 x 150mm telhado axiom,N/A
+25232,Montante retangular:50 x 150mm telhado axiom:959341,IfcMember,0OMbpmBkv3wgpDA2Mf5mE_,,Montante retangular:50 x 150mm telhado axiom,N/A
+25244,Montante retangular:50 x 150mm telhado axiom:959342,IfcMember,0OMbpmBkv3wgpDA2Mf5mEz,,Montante retangular:50 x 150mm telhado axiom,N/A
+25256,Montante retangular:50 x 150mm telhado axiom:959343,IfcMember,0OMbpmBkv3wgpDA2Mf5mEy,,Montante retangular:50 x 150mm telhado axiom,N/A
+25268,Montante retangular:50 x 150mm telhado axiom:959344,IfcMember,0OMbpmBkv3wgpDA2Mf5mEZ,,Montante retangular:50 x 150mm telhado axiom,N/A
+25280,Montante retangular:50 x 150mm telhado axiom:959345,IfcMember,0OMbpmBkv3wgpDA2Mf5mEY,,Montante retangular:50 x 150mm telhado axiom,N/A
+25292,Montante retangular:50 x 150mm telhado axiom:959346,IfcMember,0OMbpmBkv3wgpDA2Mf5mEX,,Montante retangular:50 x 150mm telhado axiom,N/A
+25304,Montante retangular:50 x 150mm telhado axiom:959347,IfcMember,0OMbpmBkv3wgpDA2Mf5mEW,,Montante retangular:50 x 150mm telhado axiom,N/A
+25316,Montante retangular:50 x 150mm telhado axiom:959348,IfcMember,0OMbpmBkv3wgpDA2Mf5mEd,,Montante retangular:50 x 150mm telhado axiom,N/A
+25328,Montante retangular:50 x 150mm telhado axiom:959349,IfcMember,0OMbpmBkv3wgpDA2Mf5mEc,,Montante retangular:50 x 150mm telhado axiom,N/A
+25340,Montante retangular:50 x 150mm telhado axiom:959350,IfcMember,0OMbpmBkv3wgpDA2Mf5mEb,,Montante retangular:50 x 150mm telhado axiom,N/A
+25352,Montante retangular:50 x 150mm telhado axiom:959351,IfcMember,0OMbpmBkv3wgpDA2Mf5mEa,,Montante retangular:50 x 150mm telhado axiom,N/A
+25364,Montante retangular:50 x 150mm telhado axiom:959352,IfcMember,0OMbpmBkv3wgpDA2Mf5mEh,,Montante retangular:50 x 150mm telhado axiom,N/A
+25376,Montante retangular:50 x 150mm telhado axiom:959353,IfcMember,0OMbpmBkv3wgpDA2Mf5mEg,,Montante retangular:50 x 150mm telhado axiom,N/A
+25388,Montante retangular:50 x 150mm telhado axiom:959354,IfcMember,0OMbpmBkv3wgpDA2Mf5mEf,,Montante retangular:50 x 150mm telhado axiom,N/A
+26069,Fascia:Frontão:959386,IfcBuildingElementProxy,0OMbpmBkv3wgpDA2Mf5mD9,,Fascia:Frontão,N/A
+26219,Fascia:Frontão:959389,IfcBuildingElementProxy,0OMbpmBkv3wgpDA2Mf5mDE,,Fascia:Frontão,N/A
+26230,Basic Roof:Telhado Colonial:960425,IfcRoof,0OMbpmBkv3wgpDA2Mf5mTw,,Basic Roof:Telhado Colonial,N/A
+26246,Basic Roof:Telhado Colonial:960425,IfcSlab,0OMbpmBkv3wgpDA2Uf5mTw,,Basic Roof:Telhado Colonial,ROOF
+26267,Basic Roof:Telhado Colonial:960425,IfcSlab,0OMbpmBkv3wgpDA2Qf5mTw,,Basic Roof:Telhado Colonial,ROOF
+26303,Sloped Glazing:Vidraça inclinada:960513,IfcRoof,0OMbpmBkv3wgpDA2Mf5mZI,,Sloped Glazing:Vidraça inclinada,N/A
+26315,Painel do sistema:Vazio:960537,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZA,,Painel do sistema:Vazio,N/A
+26327,Painel do sistema:Vazio:960547,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZm,,Painel do sistema:Vazio,N/A
+26339,Painel do sistema:Vazio:960549,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZs,,Painel do sistema:Vazio,N/A
+26351,Painel do sistema:Vazio:960551,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZq,,Painel do sistema:Vazio,N/A
+26363,Painel do sistema:Vazio:960553,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZw,,Painel do sistema:Vazio,N/A
+26375,Painel do sistema:Vazio:960555,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZu,,Painel do sistema:Vazio,N/A
+26387,Painel do sistema:Vazio:960557,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZ_,,Painel do sistema:Vazio,N/A
+26399,Painel do sistema:Vazio:960559,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZy,,Painel do sistema:Vazio,N/A
+26411,Painel do sistema:Vazio:960561,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZY,,Painel do sistema:Vazio,N/A
+26423,Painel do sistema:Vazio:960563,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZW,,Painel do sistema:Vazio,N/A
+26435,Montante retangular:50 x 150mm telhado axiom:960544,IfcMember,0OMbpmBkv3wgpDA2Mf5mZp,,Montante retangular:50 x 150mm telhado axiom,N/A
+26447,Montante retangular:50 x 150mm telhado axiom:960545,IfcMember,0OMbpmBkv3wgpDA2Mf5mZo,,Montante retangular:50 x 150mm telhado axiom,N/A
+26472,Montante retangular:50 x 150mm telhado axiom:960598,IfcMember,0OMbpmBkv3wgpDA2Mf5mY5,,Montante retangular:50 x 150mm telhado axiom,N/A
+26484,Montante retangular:50 x 150mm telhado axiom:960599,IfcMember,0OMbpmBkv3wgpDA2Mf5mY4,,Montante retangular:50 x 150mm telhado axiom,N/A
+26496,Montante retangular:50 x 150mm telhado axiom:960600,IfcMember,0OMbpmBkv3wgpDA2Mf5mYB,,Montante retangular:50 x 150mm telhado axiom,N/A
+26508,Montante retangular:50 x 150mm telhado axiom:960601,IfcMember,0OMbpmBkv3wgpDA2Mf5mYA,,Montante retangular:50 x 150mm telhado axiom,N/A
+26520,Montante retangular:50 x 150mm telhado axiom:960602,IfcMember,0OMbpmBkv3wgpDA2Mf5mY9,,Montante retangular:50 x 150mm telhado axiom,N/A
+26532,Montante retangular:50 x 150mm telhado axiom:960603,IfcMember,0OMbpmBkv3wgpDA2Mf5mY8,,Montante retangular:50 x 150mm telhado axiom,N/A
+26544,Montante retangular:50 x 150mm telhado axiom:960604,IfcMember,0OMbpmBkv3wgpDA2Mf5mYF,,Montante retangular:50 x 150mm telhado axiom,N/A
+26556,Montante retangular:50 x 150mm telhado axiom:960605,IfcMember,0OMbpmBkv3wgpDA2Mf5mYE,,Montante retangular:50 x 150mm telhado axiom,N/A
+26568,Montante retangular:50 x 150mm telhado axiom:960606,IfcMember,0OMbpmBkv3wgpDA2Mf5mYD,,Montante retangular:50 x 150mm telhado axiom,N/A
+26604,Painel do sistema:Vazio:960538,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZ9,,Painel do sistema:Vazio,N/A
+26628,Painel do sistema:Vazio:960565,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZc,,Painel do sistema:Vazio,N/A
+26640,Painel do sistema:Vazio:960567,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZa,,Painel do sistema:Vazio,N/A
+26652,Painel do sistema:Vazio:960569,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZg,,Painel do sistema:Vazio,N/A
+26664,Painel do sistema:Vazio:960571,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZe,,Painel do sistema:Vazio,N/A
+26676,Painel do sistema:Vazio:960573,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZk,,Painel do sistema:Vazio,N/A
+26688,Painel do sistema:Vazio:960575,IfcPlate,0OMbpmBkv3wgpDA2Mf5mZi,,Painel do sistema:Vazio,N/A
+26700,Painel do sistema:Vazio:960577,IfcPlate,0OMbpmBkv3wgpDA2Mf5mYI,,Painel do sistema:Vazio,N/A
+26712,Painel do sistema:Vazio:960579,IfcPlate,0OMbpmBkv3wgpDA2Mf5mYG,,Painel do sistema:Vazio,N/A
+26724,Painel do sistema:Vazio:960581,IfcPlate,0OMbpmBkv3wgpDA2Mf5mYM,,Painel do sistema:Vazio,N/A
+26749,Montante retangular:50 x 150mm telhado axiom:960541,IfcMember,0OMbpmBkv3wgpDA2Mf5mZE,,Montante retangular:50 x 150mm telhado axiom,N/A
+26774,Montante retangular:50 x 150mm telhado axiom:960542,IfcMember,0OMbpmBkv3wgpDA2Mf5mZD,,Montante retangular:50 x 150mm telhado axiom,N/A
+26786,Montante retangular:50 x 150mm telhado axiom:960543,IfcMember,0OMbpmBkv3wgpDA2Mf5mZC,,Montante retangular:50 x 150mm telhado axiom,N/A
+26798,Montante retangular:50 x 150mm telhado axiom:960589,IfcMember,0OMbpmBkv3wgpDA2Mf5mYU,,Montante retangular:50 x 150mm telhado axiom,N/A
+26810,Montante retangular:50 x 150mm telhado axiom:960590,IfcMember,0OMbpmBkv3wgpDA2Mf5mYT,,Montante retangular:50 x 150mm telhado axiom,N/A
+26822,Montante retangular:50 x 150mm telhado axiom:960591,IfcMember,0OMbpmBkv3wgpDA2Mf5mYS,,Montante retangular:50 x 150mm telhado axiom,N/A
+26834,Montante retangular:50 x 150mm telhado axiom:960592,IfcMember,0OMbpmBkv3wgpDA2Mf5mY3,,Montante retangular:50 x 150mm telhado axiom,N/A
+26846,Montante retangular:50 x 150mm telhado axiom:960593,IfcMember,0OMbpmBkv3wgpDA2Mf5mY2,,Montante retangular:50 x 150mm telhado axiom,N/A
+26858,Montante retangular:50 x 150mm telhado axiom:960594,IfcMember,0OMbpmBkv3wgpDA2Mf5mY1,,Montante retangular:50 x 150mm telhado axiom,N/A
+26870,Montante retangular:50 x 150mm telhado axiom:960595,IfcMember,0OMbpmBkv3wgpDA2Mf5mY0,,Montante retangular:50 x 150mm telhado axiom,N/A
+26882,Montante retangular:50 x 150mm telhado axiom:960596,IfcMember,0OMbpmBkv3wgpDA2Mf5mY7,,Montante retangular:50 x 150mm telhado axiom,N/A
+26894,Montante retangular:50 x 150mm telhado axiom:960597,IfcMember,0OMbpmBkv3wgpDA2Mf5mY6,,Montante retangular:50 x 150mm telhado axiom,N/A
+27387,Fascia:Frontão:960613,IfcBuildingElementProxy,0OMbpmBkv3wgpDA2Mf5mYs,,Fascia:Frontão,N/A
+27691,PORTA DE ABRIR - 1 FOLHA:100 x 250:961108,IfcDoor,0OMbpmBkv3wgpDA2Mf5mg7,,PORTA DE ABRIR - 1 FOLHA:100 x 250,N/A
+27722,Concreto-Viga Retangular:45 x 126mm 2:962371,IfcBeam,2rvkaz$P92zedkYc0RMnPu,,Concreto-Viga Retangular:45 x 126mm 2,N/A
+27760,Concreto-Viga Retangular:45 x 126mm 2:962573,IfcBeam,2rvkaz$P92zedkYc0RMmas,,Concreto-Viga Retangular:45 x 126mm 2,N/A
+27800,M_Dimension Lumber-Column:45x120:963667,IfcColumn,2rvkaz$P92zedkYc0RMmre,,M_Dimension Lumber-Column:45x120,N/A
+27834,M_Dimension Lumber-Column:45x120:963772,IfcColumn,2rvkaz$P92zedkYc0RMms7,,M_Dimension Lumber-Column:45x120,N/A
+27863,Concreto-Viga Retangular:45 x 126mm 2:964967,IfcBeam,2rvkaz$P92zedkYc0RMm1S,,Concreto-Viga Retangular:45 x 126mm 2,N/A
+27890,Concreto-Viga Retangular:45 x 126mm 2:964982,IfcBeam,2rvkaz$P92zedkYc0RMm1D,,Concreto-Viga Retangular:45 x 126mm 2,N/A
+27918,Concreto-Viga Retangular:45 x 126mm 2:965001,IfcBeam,2rvkaz$P92zedkYc0RMm2o,,Concreto-Viga Retangular:45 x 126mm 2,N/A
+27946,Concreto-Viga Retangular:45 x 126mm 2:965070,IfcBeam,2rvkaz$P92zedkYc0RMm3r,,Concreto-Viga Retangular:45 x 126mm 2,N/A
+27973,Concreto-Viga Retangular:45 x 126mm 2:965083,IfcBeam,2rvkaz$P92zedkYc0RMm3W,,Concreto-Viga Retangular:45 x 126mm 2,N/A
+28002,Concreto-Viga Retangular:45 x 126mm 2:965889,IfcBeam,2rvkaz$P92zedkYc0RMmGw,,Concreto-Viga Retangular:45 x 126mm 2,N/A
+28033,M_Dimension Lumber-Column:150 x 150:966376,IfcColumn,2rvkaz$P92zedkYc0RMmVJ,,M_Dimension Lumber-Column:150 x 150,N/A
+28066,M_Dimension Lumber-Column:150 x 150:966432,IfcColumn,2rvkaz$P92zedkYc0RMmOR,,M_Dimension Lumber-Column:150 x 150,N/A
+28095,Concreto-Viga Retangular:90 x 190:966849,IfcBeam,2rvkaz$P92zedkYc0RMtdw,,Concreto-Viga Retangular:90 x 190,N/A
+28176,Concreto-Viga Retangular:90 x 190:967505,IfcBeam,2rvkaz$P92zedkYc0RMtfg,,Concreto-Viga Retangular:90 x 190,N/A
+28252,Concreto-Viga Retangular:90 x 190:967507,IfcBeam,2rvkaz$P92zedkYc0RMtfe,,Concreto-Viga Retangular:90 x 190,N/A
+28328,Concreto-Viga Retangular:90 x 190:967509,IfcBeam,2rvkaz$P92zedkYc0RMtfk,,Concreto-Viga Retangular:90 x 190,N/A
+28404,Concreto-Viga Retangular:90 x 190:967511,IfcBeam,2rvkaz$P92zedkYc0RMtfi,,Concreto-Viga Retangular:90 x 190,N/A
+28480,Concreto-Viga Retangular:90 x 190:967513,IfcBeam,2rvkaz$P92zedkYc0RMtfY,,Concreto-Viga Retangular:90 x 190,N/A
+28556,Concreto-Viga Retangular:90 x 190:967515,IfcBeam,2rvkaz$P92zedkYc0RMtfW,,Concreto-Viga Retangular:90 x 190,N/A
+28632,Concreto-Viga Retangular:90 x 190:967517,IfcBeam,2rvkaz$P92zedkYc0RMtfc,,Concreto-Viga Retangular:90 x 190,N/A
+28708,Concreto-Viga Retangular:90 x 190:967519,IfcBeam,2rvkaz$P92zedkYc0RMtfa,,Concreto-Viga Retangular:90 x 190,N/A
+28784,Concreto-Viga Retangular:90 x 190:967521,IfcBeam,2rvkaz$P92zedkYc0RMtfQ,,Concreto-Viga Retangular:90 x 190,N/A
+28860,Concreto-Viga Retangular:90 x 190:967523,IfcBeam,2rvkaz$P92zedkYc0RMtfO,,Concreto-Viga Retangular:90 x 190,N/A
+28875,Sloped Glazing:Vidraça inclinada 2:977206,IfcRoof,2r2RUbL0jE39W0SBbHMh$y,,Sloped Glazing:Vidraça inclinada 2,N/A
+28898,Painel do sistema:Envidraçado:977212,IfcPlate,2r2RUbL0jE39W0SBbHMh$s,,Painel do sistema:Envidraçado,N/A
+28908,Painel do sistema:Envidraçado:977214,IfcPlate,2r2RUbL0jE39W0SBbHMh$q,,Painel do sistema:Envidraçado,N/A
+28918,Painel do sistema:Envidraçado:977216,IfcPlate,2r2RUbL0jE39W0SBbHMh_A,,Painel do sistema:Envidraçado,N/A
+28928,Painel do sistema:Envidraçado:977218,IfcPlate,2r2RUbL0jE39W0SBbHMh_8,,Painel do sistema:Envidraçado,N/A
+28938,Painel do sistema:Envidraçado:977220,IfcPlate,2r2RUbL0jE39W0SBbHMh_E,,Painel do sistema:Envidraçado,N/A
+28948,Painel do sistema:Envidraçado:977222,IfcPlate,2r2RUbL0jE39W0SBbHMh_C,,Painel do sistema:Envidraçado,N/A
+28958,Painel do sistema:Envidraçado:977224,IfcPlate,2r2RUbL0jE39W0SBbHMh_2,,Painel do sistema:Envidraçado,N/A
+28968,Painel do sistema:Envidraçado:977226,IfcPlate,2r2RUbL0jE39W0SBbHMh_0,,Painel do sistema:Envidraçado,N/A
+29128,Railing:90cm - Axiom:916831,IfcRailing,0AmobgbPP28x08Ek6zwOre,,Railing:90cm - Axiom,NOTDEFINED
+30987,Railing:Glass Panel - Bottom Fill:928699,IfcRailing,1KWYMK0ZXC5QZpusHQ7zXo,,Railing:Glass Panel - Bottom Fill,NOTDEFINED
+32143,Railing:Glass Panel - Bottom Fill:932721,IfcRailing,0mwHAB$PHBaxAlZA6toDUw,,Railing:Glass Panel - Bottom Fill,NOTDEFINED
+33293,Railing:Glass Panel - Bottom Fill:933021,IfcRailing,0mwHAB$PHBaxAlZA6toD1M,,Railing:Glass Panel - Bottom Fill,NOTDEFINED
+34434,Railing:Glass Panel - Bottom Fill:953308,IfcRailing,3FZHb8plP4cwueeCA7akB5,,Railing:Glass Panel - Bottom Fill,NOTDEFINED
+34724,RT_Jan._Correr 2 Folhas:160x60:951934:1,IfcOpeningElement,05Q4p_Rrhl7SStipp0RXwX,,Opening,N/A
+34740,RT_Jan._Correr 2 Folhas:160x60:952180:1,IfcOpeningElement,2TXrkmeDx8cFAwU3F1ZvN4,,Opening,N/A
+34756,JANELA COM ESQUADRIA MAXIM-AR - 1 FOLHA:80 x 60:941179:1,IfcOpeningElement,1VlNqeQvnpvhvWFf8L5JWv,,Opening,N/A
+34771,JANELA COM ESQUADRIA MAXIM-AR - 1 FOLHA:80 x 60:941338:1,IfcOpeningElement,3ptA_y$c_ll9eVGcEK2VEM,,Opening,N/A
+34787,RT_Jan._Correr 2 Folhas:160x60:952549:1,IfcOpeningElement,1QY9L_g7oXPu3X1ktkl_aI,,Opening,N/A
+34802,RT_Jan._Correr 2 Folhas:160x60:952548:1,IfcOpeningElement,2IQdKZpFjhXljsNppGmZ33,,Opening,N/A
+34817,Porta de correr - vidro c.perfil 4 folhas:3.20x2.10m:932610:1,IfcOpeningElement,1re112I6QU3fH783y8iARr,,Opening,N/A
+34833,Porta de correr - vidro c.perfil 4 folhas:3.20x2.10m:932566:1,IfcOpeningElement,1uEu$$i5165SIhojWR58XZ,,Opening,N/A
+34848,RT_Jan._Correr 2 Folhas:160x60:952546:1,IfcOpeningElement,1cn3SRCB_7HwgEKWKfbpxz,,Opening,N/A
+34864,RT_Jan._Correr 2 Folhas:140x60:952547:1,IfcOpeningElement,2hLAxGZvp5t9HXeL$VQ8T9,,Opening,N/A
+34880,PORTA DE ABRIR - 1 FOLHA:70 x 210:917875:1,IfcOpeningElement,2t9rqWQZTx2EAvL8AEcEgl,,Opening,N/A
+34895,RT_Jan._Correr 2 Folhas:160x60:954174:1,IfcOpeningElement,0O_XBGYEHRE1W2AuyitbaG,,Opening,N/A
+34911,RT_Jan._Correr 2 Folhas:160x60:954379:1,IfcOpeningElement,27qFHwULgxvDWK5Y_io4Ek,,Opening,N/A
+34927,PORTA DE ABRIR - 1 FOLHA:60 x 210:868445:1,IfcOpeningElement,2V_9omqS2jSc0xYfApijDI,,Opening,N/A
+34942,PORTA VENEZIANA DE ABRIR - 2 FOLHAS:105 X 2110:872232:1,IfcOpeningElement,1FOcQTmiwzZrBKAdDZk$89,,Opening,N/A
+34957,PORTA DE ABRIR - 1 FOLHA:70 x 210:873211:1,IfcOpeningElement,14Gifs0qzDuU$nMfw$yH3b,,Opening,N/A
+34972,PORTA DE ABRIR - 1 FOLHA:80 x 210:873317:1,IfcOpeningElement,1SYXlTSPKiD9pvIlGKHc3b,,Opening,N/A
+34988,PORTA DE ABRIR - 1 FOLHA:80 x 210:873448:1,IfcOpeningElement,1CQO4nTd4VKyKgGynmadOg,,Opening,N/A
+35003,PORTA DE ABRIR - 1 FOLHA:60 x 210:873588:1,IfcOpeningElement,1UZu2ajU7L$nuLurmcdmw$,,Opening,N/A
+35018,PORTA DE ABRIR - 1 FOLHA:70 x 210:873925:1,IfcOpeningElement,105XqT5oXI5CdTk2lBK9mq,,Opening,N/A
+35034,Porta de correr - vidro c.perfil 4 folhas:4.8x2.7:881036:1,IfcOpeningElement,0AXLfAxh29MFvhbrhy7zkP,,Opening,N/A
+35049,Porta de correr dupla envidraçada com revestimento:160 x 210cm:883763:1,IfcOpeningElement,1D36kSYixfZwW8dVU6oBk8,,Opening,N/A
+35064,Porta de correr dupla envidraçada com revestimento:160 x 210cm:883963:1,IfcOpeningElement,3Vsns4kemknSqtfVaGJxU8,,Opening,N/A
+35079,PORTA DE VIDRO COM ESQUADRIA DE CORRER - 4 FOLHAS:320 x 210:889036:1,IfcOpeningElement,3Vu7IUDfNYtjLAz4s2on6c,,Opening,N/A
+35094,PORTA DE ABRIR - 1 FOLHA:70 x 210:917551:1,IfcOpeningElement,0mZKiY5VdWgpDRGMkPjDb2,,Opening,N/A
+35110,PORTA DE ABRIR - 1 FOLHA:80 x 210:917659:1,IfcOpeningElement,0epJNhdwyHG$zzwGIkn3CU,,Opening,N/A
+35125,PORTA DE ABRIR - 1 FOLHA:80 x 210:917737:1,IfcOpeningElement,0mWHnZC88oe2wi_kcTM_n4,,Opening,N/A
+35141,"Porta de correr - vidro c.perfil 4 folhas:5,00x2.10m 2:937269:1",IfcOpeningElement,23A$$8UsyB0qCSbOL9TYPi,,Opening,N/A
+35156,PORTA DE ABRIR - 1 FOLHA:90 x 210:942321:1,IfcOpeningElement,3juGt$IZAVlQFsHWVosMMs,,Opening,N/A
+35172,PORTA DE ABRIR - 1 FOLHA:60 x 210:942481:1,IfcOpeningElement,32dy5Qb8soJIGPWoKn9oMl,,Opening,N/A
+35188,RT_Jan._Correr 2 Folhas:160x60:946650:1,IfcOpeningElement,3cv1J4JT2deMFsjOYCt6nB,,Opening,N/A
+35204,RT_Jan._Correr 2 Folhas:140x60:946913:1,IfcOpeningElement,3LtngWsuzmoAdo1nY68sOy,,Opening,N/A
+35220,Correr de Vidro 4 Folhas:320 x 210 cm 2:952973:1,IfcOpeningElement,1Ih8UWYgzDe6RuOlL7HKtp,,Opening,N/A
+35235,PORTA DE ABRIR - 1 FOLHA:70 x 210:955095:1,IfcOpeningElement,2iGeBPAuv0OIgx1FsW6Pso,,Opening,N/A
+35250,PORTA DE ABRIR - 1 FOLHA:100 x 250:961108:1,IfcOpeningElement,3bXaNzFfqiTyrT0i0H6eW$,,Opening,N/A
