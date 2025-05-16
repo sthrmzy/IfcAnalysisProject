@@ -8,3 +8,5 @@ Este projeto realiza a análise e visualização de arquivos IFC (Industry Found
 - `notebooks/`: Notebooks Jupyter para análise interativa.
 - `src/`: Scripts Python para análise e visualização.
 - `results/`: Arquivos de resultados gerados.
+
+![Overview](https://github.com/sthrmzy/IfcAnalysisProject/blob/main/reports/figures/ifc_model_visualization.png)
